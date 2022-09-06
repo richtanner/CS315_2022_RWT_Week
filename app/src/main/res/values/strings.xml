@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RWT Week1 Application</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="about_button">About Me</string>
+    <string name="about_text">We can use String values for large chunks of content!  You can trust me on that... I am the Professor.  This is just ONE TEXT VIEW! And just ONE String!!!\n\nTo import image resources into your project, do the following:  \n\nDrag and drop your images directly onto the Resource Manager window in Android Studio.  *(The Resource Manager window is the tab right under the Project tab where the hierarchy is shown) \n\nAlternatively, you can click the plus icon (+), choose Import Drawables, and then select the files and folders that you want to import.</string>
+</resources>
